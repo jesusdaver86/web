@@ -1,3 +1,3 @@
-# web
+# Example
 Example Landing page
 
